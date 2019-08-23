@@ -5,5 +5,5 @@ Companion Video: https://youtu.be/dzyKqRVN2kc
 
 Included Files: 
 
-robot-arm-control-basic - Basic 5-DOF Robot Arm controller with Arduino
+robot-arm-control-basic - Basic 5-DOF Robot Arm controller with Arduino.
 
